@@ -1,0 +1,83 @@
+*{
+	font-family: "Roboto";
+}
+
+body{
+	background-color: #abdbe3;
+}
+
+#Facbook{
+	width: 500px;
+	height: 50%;
+	border:1px solid white;
+	margin: 50px;
+	padding:10px;
+	margin-left: 30px;
+
+}
+
+.box1{
+	width: 400px;
+	height: 7	0%;
+	margin:10px auto;
+	background-color: #eeeee4;
+	border: 2px solid white;
+	padding:40px 50px;
+	margin-top: 75px;
+	border-radius: 8px;
+}
+
+.checkimage{
+	border:0px solid white;
+	margin-bottom: 5px;
+}
+
+img{
+	width: 250px;
+	height: 30%;
+	margin:  auto;
+	margin-left: 80px;
+}
+
+.input1{
+	width: 300px;
+	margin-bottom: 10px;
+	padding: 20px 20px;
+	border:1px solid rgb(238,238,228);
+	border-radius: 1rem;
+}
+.input2{
+	width: 300px;
+	margin-bottom: 15px;
+	padding: 20px 20px;
+	border:1px solid rgb(238,238,228);
+	border-radius: 1rem;
+}
+
+.btn2{
+	width: 340px;
+	height: 30%;
+	background-color: blue;
+	color: white;
+	padding: 20px 20px 20px 20px;
+	border-radius: 1rem;
+}
+
+.Forgot{
+	color: #063970;
+	font-size: 15px;
+	text-decoration: none;
+	padding-top: 10px;
+	text-align: center;
+}
+
+.butttone{
+	width: 200px;
+	margin: 10px auto;
+	background-color: #4CEE64;
+	color: white;
+	padding: 20px 20px;
+	border-radius: 1rem;
+	font-family: "Roboto"
+
+}
